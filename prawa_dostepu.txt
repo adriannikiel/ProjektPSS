@@ -1,0 +1,43 @@
+############     PRAWA DOSTEPU     ############
+###											###					
+###	Przykladowe dane o uzytkowniku:			###
+###											###
+###	user= nazwa_uzytkownika					###
+###	pass= haslo								###
+###	access= 1								###
+###											###
+###											###
+###	access:									###
+###    1 - czytanie							###
+###    2 - czytanie/pisanie					###
+###											###
+###											###
+###############################################
+###											###
+###	Copyright (C) 2009 by Adrian Nikiel.	###
+### 								        ###
+###############################################
+
+user= KowalskiJan
+pass= haslo1
+access= 1
+
+###############################################
+
+user= NowakAdam
+pass= hasslo2
+access= 1
+
+###############################################
+
+user= admin
+pass= admin
+access= 2
+
+###############################################
+
+user= NazwiskoImie12345678
+pass= haslodlugie
+access= 2
+
+###############################################
